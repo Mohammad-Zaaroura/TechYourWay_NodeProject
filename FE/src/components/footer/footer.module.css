@@ -1,0 +1,17 @@
+
+.footer {
+  background: #eaf4fa;
+  color: #2265a7;
+  text-align: center;
+  padding: 16px 0 10px 0;
+  font-size: 1.05rem;
+  border-top: 3px solid #6db96d;
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.footer a {
+  color: #2265a7;
+  margin-left: 14px;
+  text-decoration: underline;
+  font-size: 1rem;
+}
